@@ -40,8 +40,7 @@ FibonacciGanjilGenap.java :
 
 
 
-Fibonacci.java :
-<img width="359" height="126" alt="image" src="https://github.com/user-attachments/assets/4530006d-e148-400c-9507-55bc9e9196f2" />
+
 
 
 
