@@ -40,6 +40,9 @@ FibonacciGanjilGenap.java :
 
 
 
+AnalisisLabaRugi.java :
+<img width="751" height="443" alt="image" src="https://github.com/user-attachments/assets/d07868a0-c916-4f6f-99cb-5449db656742" />
+
 
 
 
